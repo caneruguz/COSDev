@@ -39,6 +39,7 @@ OSF Development
     osf/addons
     osf/migrations
     osf/common_problems
+    osf/design
 
 
 Getting Help
